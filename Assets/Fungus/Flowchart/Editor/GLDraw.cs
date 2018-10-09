@@ -112,7 +112,7 @@ public class GLDraw
     {
         if (Event.current == null)
             return;
-        if (Event.current.type != EventType.repaint)
+        if (Event.current.type != EventType.Repaint)
             return;
 
         if (clippingEnabled)
@@ -156,7 +156,7 @@ public class GLDraw
 	{
 		if (Event.current == null)
 			return;
-		if (Event.current.type != EventType.repaint)
+		if (Event.current.type != EventType.Repaint)
 			return;
 
 		CreateMaterial();
