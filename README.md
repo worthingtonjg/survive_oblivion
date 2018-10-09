@@ -2,7 +2,7 @@ My 15 year old son Nathan and I wrote this game in 48 hours for the 2015 Utah In
 
 ## WebGL Demo
 
-<http://worthingtonjg.github.io/survive_oblivion/>{:target="_blank"}
+<http://worthingtonjg.github.io/survive_oblivion/>
 
 ## Disclaimer
 
